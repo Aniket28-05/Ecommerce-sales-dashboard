@@ -14,6 +14,8 @@ This is a Power BI dashboard that shows sales performance, profit, and category 
 📂 File
 
 Download the `.pbix` file and open it in Power BI Desktop to explore the dashboard.
+## 📸 Dashboard Preview
+![Dashboard](image.png)
 
 ## 🚀 Features
 
