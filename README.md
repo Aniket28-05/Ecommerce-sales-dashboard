@@ -2,13 +2,14 @@ E-commerce Sales Dashboard 📊
 
 🔍 Overview
 
-This is a Power BI dashboard that shows sales performance, profit, and category insights.
+This is a Power BI dashboard that shows sales performance, profit, and category insights. It shows Quaterly data, state wise sales and many more.
 
 ## 📸 Dashboard Preview
 
 🛠 Tools Used
 
 * Power BI
+* Excel
 
 📂 File
 
