@@ -10,6 +10,7 @@ This is a Power BI dashboard that shows sales performance, profit, and category 
 
 * Power BI
 * Excel
+* DAX
 
 📂 File
 
